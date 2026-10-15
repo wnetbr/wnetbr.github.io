@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.wnet.painel",
+      "sha256_cert_fingerprints": ["09:73:71:7D:A7:82:CB:D0:81:82:09:FA:A9:DC:17:57:B4:87:F1:42:6D:AD:E9:CF:4F:23:0E:19:4B:71:C5:56"]
+    }
+  }
+]
